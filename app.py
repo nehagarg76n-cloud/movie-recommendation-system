@@ -7,7 +7,7 @@ import streamlit as st
 from recommender import MOVIES_DF, recommend
 
 
-TMDB_API_KEY = os.getenv("TMDB_API_KEY", "16e66e13e21bbb662d68f616461d7ecd")
+TMDB_API_KEY = os.getenv("TMDB_API_KEY", "add you api")
 PLACEHOLDER_POSTER = "https://via.placeholder.com/300x450?text=No+Image"
 
 
